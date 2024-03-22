@@ -1,2 +1,2 @@
 # jedha-datascience
-My training courses at Jedha's school about Data Science
+My training courses at Jedha's school related to Data Science
